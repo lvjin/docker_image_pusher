@@ -18,3 +18,4 @@ apache/activemq-classic:5.18.7
 mysql:5.7
 mysql:8
 atlassian/jira-software:8.16.1
+atlassian/jira-software
