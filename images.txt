@@ -14,3 +14,4 @@ rmohr/activemq
 apache/activemq-classic
 nacos/nacos-server:v2.1.0-slim
 redis:6.2.7
+apache/activemq-classic:5.18.7
