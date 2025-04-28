@@ -12,3 +12,4 @@ mysql
 mcr.microsoft.com/azure-sql-edge
 rmohr/activemq
 apache/activemq-classic
+nacos/nacos-server:v2.1.0-slim
