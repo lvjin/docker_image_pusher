@@ -6,11 +6,9 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 gitlab/gitlab-ce:latest
 portainer/portainer-ce:latest
-nginx:latest
-nginx:1.15.12
-nacos/nacos-server:2.1.0
 nacos/nacos-server
-redis:6.2.7
 redis
-mysql:5.7
-mysql:8
+mysql
+mcr.microsoft.com/azure-sql-edge
+rmohr/activemq
+apache/activemq-classic
