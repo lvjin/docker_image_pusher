@@ -20,4 +20,4 @@ mysql:8
 atlassian/jira-software:8.16.1
 atlassian/jira-software
 jenkins/jenkins:lts
-jenkins/jenkins:2.346.1
+
