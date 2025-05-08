@@ -21,3 +21,4 @@ atlassian/jira-software:8.16.1
 atlassian/jira-software
 jenkins/jenkins:lts
 sonatype/nexus3
+bladex/sentinel-dashboard
