@@ -24,4 +24,4 @@ jenkins/jenkins:lts
 bladex/sentinel-dashboard
 mysql:8.0.42
 --platform=linux/arm64 sonatype/nexus3
-
+--platform=linux/amd64 openjdk:8-jdk-alpine
